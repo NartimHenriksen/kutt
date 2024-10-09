@@ -2,7 +2,6 @@
 .vscode/
 logs
 client/.next/
-node_modules/
 client/config.js
 client/old.config.js
 server/config.js
